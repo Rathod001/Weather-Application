@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-container {
+
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    font-size: small;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+.container-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 3rem;
+    width: 500px;
+    gap: 10px;
+}
+
+
+.container-header i {
+    color: aliceblue;
+    font-size: large;
+    cursor: pointer;
+}
+
+.container-header input {
+    height: 1.5rem;
+    width: 10.5rem;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 550;
+    border: 10px whitesmoke;
+    color: #5b548a;
+    border-radius: 5px;
+
+}
+
+.hero-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.city {
+    /* display: flex; */
+    justify-content: center;
+    color: aliceblue;
+    font-size: large;
+    text-align: center;
+}
+
+.bottom-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    gap: 50px;
+}
+
+.humidity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    gap: 5px;
+}
+
+.wind {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    gap: 10px;
+}
+
+.bottom-container img {
+    height: 35px;
+}
+
+
+/** c7437594d19450d3a44bb60389c23a23  32°c **/
+
+/** github weather api key bd5e378503939ddaee76f12ad7a97608 **/
+
+//** https://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=bd5e378503939ddaee76f12ad7a97608&units=metric **//
