@@ -3,6 +3,7 @@ An interactive weather app that fetches live weather data and presents it in a u
 
 🚀**Features:**
 🌍 1. Search weather by city name.
+     <br>
 🌡️ 2. Real-time temperature, humidity, and wind speed.
 
 🛠️**Tech Stack**
