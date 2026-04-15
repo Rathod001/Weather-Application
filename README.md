@@ -2,12 +2,12 @@
 An interactive weather app that fetches live weather data and presents it in a user-friendly dashboard with dynamic visuals and accurate forecasting.
 
 🚀**Features:**
-🌍 Search weather by city name.
-🌡️ Real-time temperature, humidity, and wind speed.
+🌍 1. Search weather by city name.
+🌡️ 2. Real-time temperature, humidity, and wind speed.
 
 🛠️**Tech Stack**
-Frontend: HTML, CSS, JavaScript.
-API: Weather API (OpenWeatherMap)
+1. Frontend: HTML, CSS, JavaScript.
+2. API: Weather API (OpenWeatherMap)
 
 **⚙️ Installation:**
 1. Clone the repository:
